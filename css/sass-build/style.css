@@ -1,3 +1,4 @@
-.test {
-  background-color: red;
-}
+/*
+Access variables from variable.scss as follows
+outline: 1px solid $secondary;
+*/

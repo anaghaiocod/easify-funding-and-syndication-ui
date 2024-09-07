@@ -1,3 +1,8 @@
-.test {
-    background-color: red;
-}
+// importing palette & font family
+@import "variables.scss";
+
+/*
+Access variables from variable.scss as follows
+outline: 1px solid $secondary;
+*/
+
